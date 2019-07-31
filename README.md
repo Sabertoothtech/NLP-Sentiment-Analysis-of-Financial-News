@@ -3,5 +3,5 @@
 [CLick Here]()
 ### Entity recognition using amazon comprehend
 [CLick Here]()
-### 
+### Sentiment Analysis of Stocks Data as trained on Movie Reviews
 [Click Here]()
